@@ -1,3 +1,3 @@
 # PackManHf
 
-Programozás alapjai 3. házifeladatom.
+Programozás alapjai 3. házi feladatom.
